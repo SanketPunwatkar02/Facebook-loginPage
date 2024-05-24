@@ -1,0 +1,133 @@
+body{
+    /* background-color: black; */
+    background-image: url("8_adcs1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.login{
+    width: 200px;
+    float: left;
+    margin-left: 100px;
+    background-color:rgba(255, 255, 255, 0.116);
+    border-radius: 10px;
+    margin-top: 110px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.log{
+    background-color: rgb(32, 121, 255);
+}
+.log:hover{
+    background-color: rgb(23, 92, 196);
+}
+p{
+    color: rgb(255, 255, 255);
+}
+.png{
+    height: 80px;
+    width: 450px;
+    /* background-color: aqua; */
+    margin-left: 33%;
+    margin-top: 5%;
+    margin-bottom: 0%;
+}
+.container{
+    justify-content: center;
+    float: right;
+    margin-right: 200px;
+}
+.c2{
+   
+    backdrop-filter: blur(5px);
+    /* background-color: blueviolet; */
+    height: 500px;
+    width: 450px;
+    margin-left: 33%;
+    margin-top: 5%;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+  
+}
+
+.gender{
+    width: 100px;
+    height: 50px;
+}
+.name{
+    border: none;
+    width: 184px;
+   height: 35px;
+   border-radius: 5px;
+  
+}
+.input{
+    border: none;
+    width: 380px;
+    height: 40px;
+    border-radius: 5px;
+    margin: 5px;
+}
+select{
+    width: 130px;
+    height: 35px;
+    border-radius: 5px;
+
+}
+.st ,.nd ,.rd{
+    width: 140px;
+    height: 35px;
+    border-radius: 5px;
+    float: left;
+    background-color: white;
+    padding-left: 9px;
+    text-align: center;
+    
+}
+.st:hover{
+    background-color: rgb(47, 124, 211);
+}
+.nd:hover{
+    background-color: rgb(47, 124, 211);
+}.rd:hover{
+    background-color: rgb(47, 124, 211);
+}
+p{
+    
+    text-align: left;
+    font-size: small;
+    margin: 0;
+}
+h2{
+    margin: 0;
+}
+i{
+    color: rgb(201, 201, 201);
+}
+button{
+    width: 180px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(22, 115, 202);
+    color: white;
+    font-size: medium;
+    font-weight: 400;
+}
+button{
+    width: 180px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(29, 163, 36);
+}
+.footer{
+    margin-top: 425px;
+    text-align: center;
+    /* margin-left: 450px; */
+    background-color: rgba(0, 0, 0, 0.493);
+    height: 150px;
+    font-size: larger;
+    font-weight: 400;
+    color: white;
+}
